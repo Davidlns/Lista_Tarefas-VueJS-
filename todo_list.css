@@ -1,0 +1,115 @@
+body {
+    align-items: center;
+    text-align: center;
+    background-color: rgb(218, 235, 235);
+}
+
+#wrapper {
+    justify-content: center;
+}
+
+#wrapper h1 {
+    color: rgb(103, 165, 194);
+    font-weight: bold;
+    text-decoration: line-through rgb(255, 230, 0);
+    font-size: 70px;
+    margin-top: 50px;
+}
+
+#form-wrapper {
+    max-width: 900px;
+    margin-left: 15%;
+    background-color: rgba(240, 240, 240, 0.692);
+    margin-top: 50px;
+    box-shadow: 0 0 10px #c7c7c796, 0 0 1px #8585858e, 0 0 3px #7777778e;
+}
+
+#o-form {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    align-items: center;
+}
+
+#text-novo-item {
+    max-width: 570px;
+}
+
+#is-importante {
+    margin-left: 25px;
+}
+
+.btn {
+    margin-left: 40px;
+    padding-inline: 30px;
+    border: 1px black;
+}
+
+#imp {
+    margin-left: 7px;
+}
+
+#list-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.inline {
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    padding-block: 50px;
+    padding-inline: 30px;
+    width: 250px;
+    background-color: rgb(231, 231, 131);
+}
+
+.card-header {
+    margin-top: -50px;
+    padding-inline: 66%;
+    padding-block: 10%;
+    margin-left: -30px;
+    background-color: rgba(255, 255, 255, 0.411);
+    display: flex;
+    flex-direction: row;
+}
+
+.card h5 {
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.feito {
+    background-color: rgb(149, 224, 130);
+    color: black;
+}
+.feito h5{
+    text-decoration: line-through white;
+}
+.importante {
+    background-color: rgb(247, 76, 76);
+}
+
+.feitoimportante {
+    background-color: green;
+}
+#col1 {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 850px;
+}
+
+#col1 > * {
+    margin: 10px;
+}
+.card-header p {
+    display: flex;
+    flex-direction: row;
+    margin-left: -38px;
+    font-weight: bold;
+    color: rgb(78, 78, 78);
+}
