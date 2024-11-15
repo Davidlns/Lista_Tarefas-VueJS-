@@ -3,4 +3,5 @@ Aplicação para controle de tarefas, com utilização de Vue JS para maior inte
 Você pode definir tarefas comuns ou importantes, colocando o horário de cada tarefa a aplicação te avisará tocando uma música quando chegar a hora de realizar sua tarefa
 quando a tarefa for finalizada você poderá clicar nela e alterar o estado dela para concluída, logo a música para de tocar, e a tarefa é riscada.
 ##
-![Imagem Lista](https://private-user-images.githubusercontent.com/49310960/386646889-09739e1d-ea42-46c4-86ec-1cbba68c0924.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2ODI2NzUsIm5iZiI6MTczMTY4MjM3NSwicGF0aCI6Ii80OTMxMDk2MC8zODY2NDY4ODktMDk3MzllMWQtZWE0Mi00NmM0LTg2ZWMtMWNiYmE2OGMwOTI0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE1VDE0NTI1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE5YTRhMWYyM2M4MGEzODc5YWQ1Y2NjMzVmNDEwOTViODU5NjhhZmUyMDAxNjI5YjdlNzA5NzAyMTkwODRhYmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nxqIXB6VKbs-Lk8RxyzKiWDksgGXwjwRN3VXZ6KUz9I)
+![imageNote](https://github.com/user-attachments/assets/e2eccc1a-8d07-4712-89bc-95b5ac7af618)
+
